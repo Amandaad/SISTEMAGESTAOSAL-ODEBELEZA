@@ -3,6 +3,8 @@
 ![Designer](https://img.shields.io/badge/Designer-Portfolio-111111?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 [![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1520226886380436326/recents-and-sharing?fuid=1520226883649775752)
 [![Notion](https://img.shields.io/badge/Notion-Workspace-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/login)
+[![Miro](https://img.shields.io/badge/Miro-Board-050038?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/pt/?utm_source=chatgpt.com)
+[![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/?utm_source=chatgpt.com)
 
 Site estático do Studio AS (beleza, cuidado e estilo), com layout moderno e seção completa de serviços/preços.
 
